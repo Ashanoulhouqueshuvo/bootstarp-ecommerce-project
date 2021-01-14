@@ -1,0 +1,40 @@
+.nav-w{
+    font-weight: 700;
+}
+.logo-size{
+    max-width: 50%;
+    max-height: 50%;
+}
+.navbar ul li{
+    color:black;
+    font-weight: 700;
+}
+.img{
+    height: 50%;
+    width: 40%;
+    float: inline-end;
+    padding-right: 20px;
+    background-image: url("Logo,Icon/Group 33072.png");
+}
+.card img{
+    height: 50%;
+}
+.box-size{
+    height: 200px;
+    border-radius: 10px;
+    border: chartreuse;
+    width: 200px;
+    
+
+}
+.last_img{
+    height: 40%;
+    width: 50%;
+    
+    margin-left: 50%;
+    
+}
+.footer img{
+    size: 30%;
+
+}
