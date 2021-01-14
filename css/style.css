@@ -19,22 +19,27 @@
 .card img{
     height: 50%;
 }
-.box-size{
+.{
     height: 200px;
+    width:50%;
     border-radius: 10px;
     border: chartreuse;
     width: 200px;
     
 
 }
-.last_img{
-    height: 40%;
-    width: 50%;
-    
-    margin-left: 50%;
-    
+.showoff{
+    border: 0;
 }
+.card-footer-showoff{
+    background-color: white;
+}
+
+    
+
 .footer img{
     size: 30%;
 
 }
+
+    
